@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1094e34a-3181-4658-980b-b07e7bf5ef6d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Herbert/SongLyrics_Analysis Notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Herbert/SongLyrics_Analysis Notebook.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Herbert/single_label.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Herbert/single_label.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +49,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;ivan&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/herbe/Documents/1-M-AI/SS2024/NLP/Projekt 1/Herbert&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/herbe/Documents/1-M-AI/SS2024/DEVP/Challenge1&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -80,7 +79,9 @@
       <workItem from="1710695336050" duration="7870000" />
       <workItem from="1712858758080" duration="5532000" />
       <workItem from="1712933334197" duration="16802000" />
-      <workItem from="1713171706025" duration="10914000" />
+      <workItem from="1713171706025" duration="10981000" />
+      <workItem from="1713182919750" duration="12000" />
+      <workItem from="1713202959209" duration="1577000" />
     </task>
     <servers />
   </component>
