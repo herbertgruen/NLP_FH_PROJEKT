@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1094e34a-3181-4658-980b-b07e7bf5ef6d" name="Changes" comment="" />
+    <list default="true" id="1094e34a-3181-4658-980b-b07e7bf5ef6d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Herbert/single_label.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Herbert/herbert.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/herbert.ipynb" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +50,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/herbe/Documents/1-M-AI/SS2024/NLP/Projekt 1",
+    "git-widget-placeholder": "ivan",
+    "last_opened_file_path": "C:/Users/herbe/Documents/1-M-AI/SS2024/NLP/Projekt 1/Herbert",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,6 +61,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\herbe\Documents\1-M-AI\SS2024\NLP\Projekt 1\Herbert" />
+      <recent name="C:\Users\herbe\Documents\1-M-AI\SS2024\NLP\Projekt 1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\herbe\Documents\1-M-AI\SS2024\NLP\Projekt 1\Herbert" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1710695334957</updated>
       <workItem from="1710695336050" duration="7870000" />
-      <workItem from="1712858758080" duration="4757000" />
+      <workItem from="1712858758080" duration="5532000" />
+      <workItem from="1712933334197" duration="15217000" />
     </task>
     <servers />
   </component>
@@ -78,6 +94,11 @@
           <url>notebook://C:/Users/herbe/Documents/1-M-AI/SS2024/NLP/songlyrics_univeral_sentence_encoder-master/Notebooks/SongLyrics_Scraping Notebook.ipynb</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/herbe/Documents/1-M-AI/SS2024/NLP/Projekt 1/Herbert/single_label.ipynb</url>
+          <line>150</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
